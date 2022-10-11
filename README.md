@@ -1,4 +1,4 @@
-# Php_Core_Curd_Operation
+# Php-Core-Curd-Operation
 
 you have to download full setup and create New database.
 
